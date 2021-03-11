@@ -10,4 +10,5 @@ int main()
 		cout<<"Hello World! x: "<<x<<endl;
 		x++;
 	}
+	return 0;
 }
